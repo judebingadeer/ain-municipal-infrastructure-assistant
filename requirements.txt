@@ -1,0 +1,4 @@
+crewai
+gradio
+gspread
+google-auth
